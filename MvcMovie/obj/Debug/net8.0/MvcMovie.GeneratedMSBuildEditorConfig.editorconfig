@@ -18,12 +18,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\PTPMQL\MvcMovie
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/PTPMQL/MvcMovie/Views/hellowould/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaGVsbG93b3VsZFxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/PTPMQL/MvcMovie/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/PTPMQL/MvcMovie/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPMQL/MvcMovie/Views/person/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uXGNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPMQL/MvcMovie/Views/person/delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uXGRlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPMQL/MvcMovie/Views/person/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uXGVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPMQL/MvcMovie/Views/person/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uXGluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/PTPMQL/MvcMovie/Views/Shared/Error.cshtml]

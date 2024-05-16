@@ -192,16 +192,16 @@ namespace MvcMovie.Controllers{
 
 
 
-        // public IActionResult Index(){
-        //         return View();
-        // }
+        public IActionResult Index(){
+                 return View();
+         }
 
-        // [HttpPost]
-        // public IActionResult Index(Person ps)
-        // {
-        //     string strOutput = "Xin chào: " + ps.PersonID + " - " + ps.FullName + " - " + ps.Address;
-        //     ViewBag.Message = strOutput;
-        //     return View();
-        // }
+         [HttpPost]
+         public IActionResult Index(Person ps)
+         {
+             string strOutput = "Xin chào: " + ps.PersonID + " - " + ps.FullName + " - " + ps.Address;
+             ViewBag.Message = strOutput;
+             return View();
+         }
     }
  }
